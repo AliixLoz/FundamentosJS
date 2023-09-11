@@ -8,3 +8,6 @@ console.log(text.indexOf('T'));
 console.log(text.startsWith('T'));
 console.log(text.endsWith('E'));
 console.log('*'.repeat(10));
+
+
+
