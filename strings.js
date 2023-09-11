@@ -30,4 +30,3 @@ Te puedes comunicar conmigo al num ${phone}
 `;
 
 console.log(presentation);
-
